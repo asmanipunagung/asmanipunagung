@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m student
-- 🌱  I’m currently learning python
+- 🌱  I’m currently learning internet of things
 
 
 ##### Skills
